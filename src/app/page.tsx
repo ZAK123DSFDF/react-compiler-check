@@ -22,7 +22,6 @@ export default function Home() {
        <h1>this is on the main branch</h1>
        <h1>this is the second branch</h1>
        <h1>this is on the check only</h1>
-       <h1>this is on the main only2</h1>
    </>
   );
 }
