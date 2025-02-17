@@ -20,6 +20,7 @@ export default function Home() {
      <button onClick={()=>setCount(count+1)}>increment</button>
       <SlowComponent/>
        <h1>this is on the main branch</h1>
+       <h1>this is the second branch</h1>
    </>
   );
 }
