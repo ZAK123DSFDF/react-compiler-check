@@ -18,7 +18,8 @@ export default function Home() {
    <>
      <h1>{count}</h1>
      <button onClick={()=>setCount(count+1)}>increment</button>
-     <SlowComponent/>
+      <SlowComponent/>
+       <h1>this is on the main branch</h1>
    </>
   );
 }
